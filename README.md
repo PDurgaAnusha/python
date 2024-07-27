@@ -1,3 +1,4 @@
+# Image classification
 Data Preprocessing:
 
 "The first step in the process was data preprocessing. I began by loading the dataset, which can be a standard dataset such as CIFAR-10 or MNIST. After loading the data, I normalized the pixel values to a range of 0 to 1 to ensure better convergence during training. Additionally, I applied data augmentation techniques like rotation, flipping, and zooming to artificially expand the dataset and improve the model’s generalization capabilities."
